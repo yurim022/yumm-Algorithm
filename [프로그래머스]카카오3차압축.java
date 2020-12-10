@@ -36,9 +36,7 @@ class Solution {
                     }
                     else{
                     	answer.add(dict.indexOf(w));
-                        if (!next.equals("")){
                             dict.add(next);
-                        }
                     }
             }while (flag);
             
