@@ -32,3 +32,23 @@ def solution(skill, skill_trees):
             answer += 1
 
     return answer
+
+
+
+##참조풀이를 내 식으로 재해석
+#deque를 쓰니 더 빠르다
+#skill_q = deque(skill) 가 for문안에 들어와야 되는 것 주의
+from collections import deque
+
+def solution(skill, skill_trees):
+    answer = 0
+    
+    for tree in skill_trees:
+        skill_q = deque(skill)
+        for s in tree:
+            if s in skill_q and s != skill_q.popleft():
+                break
+        else:
+            answer +=1
+        
+    return answer
