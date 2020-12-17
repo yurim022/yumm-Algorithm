@@ -2,7 +2,7 @@
 
 1. [프로그래머스] [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
    
-   ○ 2020-12-17 python
+   ○ 2020-12-17 python, java
    
 2. [프로그래머스] [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 
