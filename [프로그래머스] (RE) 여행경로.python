@@ -1,0 +1,22 @@
+def solution(tickets):
+
+    routes = {}
+    for ticket in tickets:
+        x,y = ticket[0],ticket[1]
+        routes[x] = routes.get(x,[]) +[y]
+    
+    for key in routes.keys():
+        routes[key].sort(reverse = True)#연산의 편리함을 위해 reverse=True
+
+    stack = ['ICN']
+    path = []
+    while len(stack) >0:
+        print(f'path: {path}',f'stack:{stack}')
+        top = stack[-1]
+        #어떤 공항에서 출발하는 표가 한장도 없다면 또는 있었는데, 다 써버렸다면
+        if top not in routes or len(routes[top]) == 0:
+            path.append(stack.pop())
+        else:
+            stack.append(routes[top].pop())
+            
+    return path[::-1]
