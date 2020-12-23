@@ -51,4 +51,7 @@
 13. [프로그래머스] [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 
     ○ 2020-12-21 python
+14. [프로그래머스] [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+
+    ○ 2020-12-21 python
    
