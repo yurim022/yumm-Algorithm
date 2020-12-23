@@ -50,5 +50,5 @@
     ○ 2020-12-21 python,java
 13. [프로그래머스] [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 
-    ○ 2020-12-21 python,java
+    ○ 2020-12-21 python
    
