@@ -60,3 +60,6 @@
 16. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
     ○ 2020-12-30 python   
+15. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
+    ○ 2020-12-30 python   
