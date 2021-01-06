@@ -1,60 +1,39 @@
 //틀린코드...
-//반례. 이미 연결관계를 가진 것은 추가 할 필요 없음
-
-import java.util.*;
-
-class Solution {
+//반례. 이미 연결관계를 가진 것은 추가 할 필요 없public class LinkingIslands {
+    int[] findParent;                                //부모와 자식의 정보가 담긴 배열
+    
+    public int find(int child) {                    //부모 찾기
+        if(findParent[child] == child) {
+            return child;
+        }else {
+            return findParent[child] = find(findParent[child]);
+        }
+    }
+    
     public int solution(int n, int[][] costs) {
-        int answer = 0, curr = 0;
-        
-        //비용이 적은 순서대로 정렬
-        Arrays.sort(costs, new Comparator<int[]>(){
+        Arrays.sort(costs, new Comparator<int[]>() {            //가중치 기준으로 오름차순
             @Override
-            public int compare(int[] t1,int[] t2){
-                return t1[2]-t2[2];
+            public int compare(int[] o1, int[] o2) {
+                Integer a = o1[2];
+                Integer b = o2[2];
+                return a.compareTo(b);
             }
         });
         
-        int[][] link = new int[n][n]; //연결관계
-        
-        do{
-            int node1 = costs[curr][0], node2 = costs[curr][1], cost = costs[curr][2];
-            answer += cost;
-            curr += 1;
-            link[node1][node2] = link[node2][node1] =1;
-           //String a = Integer.toString(node1);
-           //String b = Integer.toString(node2);
-           //System.out.println(a+" "+b);
-        }while(validate(n,link));
-        
-        //for(int[] arr:costs){
-          //  System.out.println(Arrays.toString(arr));
-        //}
-        return answer;
-    }
-    
-    public boolean validate(int n, int [][] link){
-        boolean[] visited = new boolean[n];
-        Arrays.fill(visited,false);
-        
-        //BFS
-        int root = 0, count = 1;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(root);
-        visited[root] =true;
-        while(!q.isEmpty()){
-            int e = q.poll();
-            for(int i = 0; i<n;i++){
-                if (!visited[i] && link[i][e] == 1){
-                    count += 1;
-                    q.add(i);
-                    visited[i] =true;
-                }
-            }
+        findParent = new int[n];                                //초기배열에서 부모는 자기 자신.
+        for(int i = 0; i < n; i++) {
+            findParent[i] = i;
         }
         
-        if (count == n){return false;}
-        return true;
-        
-    } 
+        int answer = 0;
+        for(int i = 0; i < costs.length; i++) {
+            int firstIsland = find(costs[i][0]);
+            int SecondIsland = find(costs[i][1]);
+            if(firstIsland != SecondIsland) {            //부모가 같지 않다면 연결이 안된 최솟값이므로
+                findParent[SecondIsland] = firstIsland;    //연결
+                answer += costs[i][2];                    
+            }
+        }
+        return answer;
+    }
 }
