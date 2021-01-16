@@ -66,3 +66,6 @@
 16. [프로그래머스] [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
 
     ○ 2021-01-06 java  
+17. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+
+    ○ 2021-01-17  
