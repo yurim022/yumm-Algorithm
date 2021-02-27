@@ -69,3 +69,6 @@
 17. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 
     ○ 2021-01-17  
+    
+18. [백준] [프린터 큐](https://www.acmicpc.net/problem/1966)
+    ○ 2021-02-27
