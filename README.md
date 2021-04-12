@@ -31,7 +31,7 @@
    
 8. [프로그래머스] [카카오 3차 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 
-   ○ 2020-12- java
+   ○ 2020-12- java  -> 19번 압축으로 다시 풀어봄. 풀이 더 직관적인 버전으로 변경
    
 9. [프로그래머스] [카카오 1차 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 
