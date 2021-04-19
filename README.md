@@ -86,3 +86,6 @@
 20. [프로그래머스] [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
     
     ○ 2021-04-18
+21. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3)
+    
+    ○ 2021-04-19
