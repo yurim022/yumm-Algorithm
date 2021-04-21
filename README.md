@@ -89,3 +89,7 @@
 21. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3)
     
     ○ 2021-04-19
+22. [프로그래머스] [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411?language=python3)
+    
+    ○ 2021-04-21
+    
