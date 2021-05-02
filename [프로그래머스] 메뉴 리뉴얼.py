@@ -7,12 +7,10 @@ def solution(orders, course):
     for c in course:
         temp = []
         for order in orders:
-            combi = combinations(sorted(order), c)
+            combi = combinations(sorted(order), c) #경우의 수 생성
             temp += combi
-            #print(f'temp:{temp}') #temp:[('A', 'B'), ('A', 'C'), ('A', 'F'), ('A', 'G')]...
         counter = Counter(temp)
-        #print(f'counter:{counter}')
         if len(counter) != 0 and max(counter.values()) != 1:
-            answer += [''.join(f) for f in counter if counter[f] == max(counter.values())]
+            answer += [''.join(f) for f in counter if counter[f] == max(counter.values())] #가장 최대의 값에 대해 문자열로 반환
 
     return sorted(answer)
