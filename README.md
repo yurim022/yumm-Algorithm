@@ -97,6 +97,10 @@
     
     ○ 2021-05-02
     
-24. [programmers] [ㄷㅏㄴㅅㅗㄱ ㅋㅏㅁㅔㄹㅏ](https://programmers.co.kr/learn/courses/30/lessons/42884)
+24. [programmers] [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
     
     o 2021-05-08
+25. [programmers] [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+    
+    o 2021-05-08
+    
