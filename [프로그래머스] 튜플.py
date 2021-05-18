@@ -1,6 +1,6 @@
 def solution(s):
     dic = {}
-    s = s.replace('{','').replace('}','').split(',');
+    s = s.replace('{','').replace('}','').split(',');  #re.findall('\d+', s) 
     #많이 카운트된 원소 순서대로 튜플생성
     for s_ in set(s): 
         dic[s_] = 0
@@ -12,3 +12,5 @@ def solution(s):
     for key, value in counts:
         answer.append(int(key))
     return answer
+
+
