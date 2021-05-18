@@ -109,4 +109,6 @@
 27. [programmers] [카카오프렌즈](https://programmers.co.kr/learn/courses/30/lessons/1829)
     
     o 2021-05-18
+28. [programmers] [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=python3)
     
+    o 2021-05-18
