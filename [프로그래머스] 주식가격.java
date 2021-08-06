@@ -26,3 +26,63 @@ class Solution {
     }
 
 }
+
+
+---------------------------------
+
+2021.08.06 다시 풀어봄
+    
+    
+import java.util.*;
+
+
+class Solution {
+    public int[] solution(int[] prices) {
+        
+        Stack<Price> stack = new Stack<>();
+        int[] answer = new int[prices.length];
+        
+        for( int idx = 0; idx < prices.length; idx++){
+            while(!stack.isEmpty()){
+                Price now = stack.peek();
+                if(now.price() <= prices[idx])
+                    break;
+                answer[now.index()] = ( idx - now.index());
+                stack.pop();
+            }
+            stack.push(new Price(prices[idx],idx));  
+        }
+            
+        while(!stack.isEmpty()){
+            Price price = stack.pop();
+            answer[price.index()] = ( prices.length -1 - price.index() );
+        }
+        
+        return answer;
+        
+    }
+    
+    public static class Price{
+        
+        int price;
+        int index;
+        
+        public Price(int price, int index){
+            this.price = price;
+            this.index = index;
+        }
+        
+        public int price(){
+            return this.price;
+        }
+        
+        public int index(){
+            return this.index;
+        } 
+        
+        public String print(){
+            return String.valueOf(this.price) + String.valueOf(this.index);
+        }
+    }
+
+}
