@@ -127,3 +127,6 @@
 33. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java)
     
     o 2021-08-08
+34. [프로그래머스] [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
+    
+    o 2021-08-10
