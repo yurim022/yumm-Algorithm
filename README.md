@@ -130,3 +130,6 @@
 34. [프로그래머스] [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
     
     o 2021-08-10
+35. [프로그래머스] [로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
+    
+    o 2021-08-11
