@@ -136,3 +136,6 @@
 36. [프로그래머스] [합승 택시](https://programmers.co.kr/learn/courses/30/lessons/72413?language=java)
     
     o 2021-08-12
+37. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
+    
+    o 2021-08-19
