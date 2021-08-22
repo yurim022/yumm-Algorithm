@@ -139,3 +139,6 @@
 37. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
     
     o 2021-08-19
+38. [프로그래머스] [JadenCase](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3)
+    
+    o 2021-08-22
