@@ -145,6 +145,10 @@
 39. [프로그래머스] [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
     
     o 2021-08-22
-40. [프로그래머스] [거](https://programmers.co.kr/learn/courses/30/lessons/81302)
+40. [프로그래머스] [거리두기 ~](https://programmers.co.kr/learn/courses/30/lessons/81302)
     
     o 2021-08-22
+41. [프로그래머스] [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=java)
+    
+    o 2021-08-24
+
