@@ -15,7 +15,7 @@ def solution(prices):
 
 
 
-#2. stack
+#2. stack에 index를 넣어준다.
 def solution(prices):
     answer = [0]*len(prices)
     stack = []
