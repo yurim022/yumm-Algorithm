@@ -1,9 +1,41 @@
+# 내풀이
+
+def solution(N, number):
+    if N == number:
+        return 1
+
+    s = [ set() for x in range(9)] #s[1] -> 사용횟수 1 맞춰주기 위해
+    for i in range(1,9):
+        s[i].add(int( str(N)*i ))
+
+        
+    for target in range(2,9):
+        for subSet in range(1,target):
+            for op1 in s[subSet]:
+                for op2 in s[target-subSet]:
+                    s[target].add(op1 - op2)
+                    s[target].add(op1 + op2)
+                    s[target].add(op1 * op2)
+                    if op2 != 0:
+                        s[target].add(op1 // op2)
+        if number in s[target]:
+            return target
+        
+    
+    return -1
+
+
+
+
+-------------------------------------------------------------------------------------------------------------
+# 참고한 풀이
+
 def solution(N, number):
     if N == number:
         return 1
         
     # 1. [ SET x 8 ] 초기화. 
-    # s[0] -> N = 1, s[1] -> N = 2, ... 
+    # s[0] -> 연산횟수 = 1, s[1] -> 연산횟수 = 2, ... 
     # s[7] -> N = 8 (s[1] 연산 s[6], s[2] 연산 s[5], s[3] 연산 s[4], ...s[6] 연산 s[1])
     s = [ set() for x in range(8) ] 
 
