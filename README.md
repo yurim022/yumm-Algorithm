@@ -159,5 +159,6 @@
 45. [프로그래머스] [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 46. [백준] [럭키스트레이트](https://www.acmicpc.net/problem/18406)
 47. [프로그래머스] [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)
+48. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 
 
