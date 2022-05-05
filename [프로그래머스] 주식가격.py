@@ -10,3 +10,35 @@ def solution(prices):
         else:
             ans[i] = n-i-1
     return ans
+
+
+
+
+--------------------------------------------------
+
+# 2022- 05 -05
+
+def solution(prices):
+    stack = []
+    answer = [ 0 for i in range(len(prices))]
+    
+    for time, price in enumerate(prices):
+        
+        if len(stack) > 0:    
+            while stack:
+                if stack[-1][1] > price:
+                    (s_time, s_price) = stack.pop()
+                    answer[s_time] = time - s_time
+                else: #주식 안떨어졌으면 
+                    break
+        
+        stack.append((time,price))
+
+    
+    #끝까지 안떨어진 값들 정리
+    cur_time = len(prices) - 1
+    while stack:
+        (time,price) = stack.pop()
+        answer[time] = cur_time - time
+        
+    return answer
