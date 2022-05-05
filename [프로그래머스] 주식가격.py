@@ -17,6 +17,7 @@ def solution(prices):
 --------------------------------------------------
 
 # 2022- 05 -05
+# 이게 더 
 
 def solution(prices):
     stack = []
