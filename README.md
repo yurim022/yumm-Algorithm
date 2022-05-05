@@ -125,6 +125,7 @@
 32. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
     
     o 2021-08-08
+    o 2022-05-06
 33. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java)
     
     o 2021-08-08
