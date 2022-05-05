@@ -15,7 +15,7 @@ def solution(priorities, location):
             
 ---------------------------------------------------
             
-#2022-05-06 다시 풀기
+#2022-05-06 다시 풀기 (더 빠름)
 from collections import deque
 def solution(priorities, location):
     p = deque([ (i, priority) for i, priority in enumerate(priorities)])
