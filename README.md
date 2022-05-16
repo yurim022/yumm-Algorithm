@@ -130,7 +130,8 @@
     o 2021-08-08
 34. [프로그래머스] [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
     
-    o 2021-08-10
+    o 2021-08-10 java
+    o 2022-05-17 python
 35. [프로그래머스] [로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
     
     o 2021-08-11
@@ -160,7 +161,4 @@
 45. [프로그래머스] [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 
     o 2022-05-16
-46. [프로그래머스] [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
-
-     o 2022-05-17
 
