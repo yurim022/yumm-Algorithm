@@ -157,4 +157,6 @@
     o 2021-08-25
 43. [프로그래머스] [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3)
 44. [프로그래머스] [단체사진찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
+45. [프로그래머스] [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334). 
+    o 2022-05-16
 
