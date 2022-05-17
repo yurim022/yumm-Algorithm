@@ -161,4 +161,7 @@
 45. [프로그래머스] [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 
     o 2022-05-16
+46. [프로그래머스] [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
+
+    o 2022-05-18
 
