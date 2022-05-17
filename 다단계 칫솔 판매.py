@@ -6,7 +6,7 @@ def solution(enroll, referral, seller, amount):
         cur = s
         money = a * 100
         while cur != '-':
-            if money == 0: #
+            if money == 0: # 효율성을 위한 중
                 break
             tip = money // 10
             answer[idx[cur]] += (money - tip)
