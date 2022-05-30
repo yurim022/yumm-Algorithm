@@ -62,115 +62,128 @@
 
     ○ 2020-12-30 python   
     ○ 2022-05-05 python   
-15. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
+17. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
     ○ 2020-12-30 python   
-16. [프로그래머스] [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
+18. [프로그래머스] [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
 
     ○ 2021-01-06 java  
     ○ 2021-05-02 python
-17. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+19. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 
     ○ 2021-01-17  
     
-18. [백준] [프린터 큐](https://www.acmicpc.net/problem/1966)
+20. [백준] [프린터 큐](https://www.acmicpc.net/problem/1966)
     
     ○ 2021-02-27
     
-19. [프로그래머스] [압축](https://programmers.co.kr/learn/courses/30/lessons/17684?language=java)
+21. [프로그래머스] [압축](https://programmers.co.kr/learn/courses/30/lessons/17684?language=java)
     
     ○ 2021-04-12
     
     
-20. [프로그래머스] [점프와 순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=java)
+22. [프로그래머스] [점프와 순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=java)
     
     ○ 2021-04-18
 
-20. [프로그래머스] [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
+23. [프로그래머스] [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
     
     ○ 2021-04-18
-21. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3)
+24. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3)
     
     ○ 2021-04-19
-22. [프로그래머스] [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411?language=python3)
+25. [프로그래머스] [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411?language=python3)
     
     ○ 2021-04-21
-23. [프로그래머스] [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)
+26. [프로그래머스] [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)
     
     ○ 2021-05-02
     
-24. [programmers] [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+27. [programmers] [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
     
     o 2021-05-08
-25. [programmers] [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+28. [programmers] [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
     
     o 2021-05-08
-26. [programmers] [합승 택시](https://programmers.co.kr/learn/courses/30/lessons/72413?language=python3)
+29. [programmers] [합승 택시](https://programmers.co.kr/learn/courses/30/lessons/72413?language=python3)
     
     o 2021-05-08
-27. [programmers] [카카오프렌즈](https://programmers.co.kr/learn/courses/30/lessons/1829)
+30. [programmers] [카카오프렌즈](https://programmers.co.kr/learn/courses/30/lessons/1829)
     
     o 2021-05-18
-28. [programmers] [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=python3)
+31. [programmers] [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=python3)
     
     o 2021-05-18
-29. [프로그래머스] [베스트](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java)
+32. [프로그래머스] [베스트](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java)
     
     o 2021-07-03
-30. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java)
+33. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java)
     
     o 2021-07-03
-31. [프로그래머스] [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java)
+34. [프로그래머스] [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java)
     
     o 2021-08-05
-32. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+35. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
     
     o 2021-08-08
     o 2022-05-06
-33. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java)
+36. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java)
     
     o 2021-08-08
-34. [프로그래머스] [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
+37. [프로그래머스] [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
     
-    o 2021-08-10
-35. [프로그래머스] [로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
+    o 2021-08-10 java
+    o 2022-05-17 python
+38. [프로그래머스] [로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
     
     o 2021-08-11
-36. [프로그래머스] [합승 택시](https://programmers.co.kr/learn/courses/30/lessons/72413?language=java)
+39. [프로그래머스] [합승 택시](https://programmers.co.kr/learn/courses/30/lessons/72413?language=java)
     
     o 2021-08-12
-37. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
+40. [프로그래머스] [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
     
     o 2021-08-19
-38. [프로그래머스] [JadenCase](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3)
+41. [프로그래머스] [JadenCase](https://programmers.co.kr/learn/courses/30/lessons/12951?language=python3)
     
     o 2021-08-22
-39. [프로그래머스] [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+42. [프로그래머스] [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
     
     o 2021-08-22
-40. [프로그래머스] [거리두기 ~](https://programmers.co.kr/learn/courses/30/lessons/81302)
+43. [프로그래머스] [거리두기 ~](https://programmers.co.kr/learn/courses/30/lessons/81302)
     
     o 2021-08-22
-41. [프로그래머스] [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=java)
+44. [프로그래머스] [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=java)
     
     o 2021-08-24
-42. [프로그래머스] [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303?language=java)
+45. [프로그래머스] [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303?language=java)
     
     o 2021-08-25
-43. [프로그래머스] [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3)
-44. [프로그래머스] [단체사진찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
-45. [프로그래머스] [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
-46. [백준] [럭키스트레이트](https://www.acmicpc.net/problem/18406)
-47. [프로그래머스] [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)
-48. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
-49. [프로그래머스] [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+46. [프로그래머스] [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3)
+47. [프로그래머스] [단체사진찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
+48. [프로그래머스] [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+49. [백준] [럭키스트레이트](https://www.acmicpc.net/problem/18406)
+50. [프로그래머스] [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)
+51. [프로그래머스] [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+52. [프로그래머스] [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
  
     o 2022-05-08
-50. [프로그래머스] [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+53. [프로그래머스] [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
  
     o 2022-05-09
-51. [프로그래머스] [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
+54. [프로그래머스] [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
  
     o 2022-05-09
 
+55. [프로그래머스] [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 
+    o 2022-05-16
+56. [프로그래머스] [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
+
+    o 2022-05-18
+57. [백준] [N과 M(1)](https://www.acmicpc.net/problem/15649)
+
+    o 2022-05-30
+58. [백준] [N과 M(2)](https://www.acmicpc.net/problem/15650)
+
+    o 2022-05-30
