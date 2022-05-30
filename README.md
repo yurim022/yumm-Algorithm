@@ -167,4 +167,6 @@
 47. [백준] [N과 M(1)](https://www.acmicpc.net/problem/15649)
 
     o 2022-05-30
+48. [백준] [N과 M(2)](https://www.acmicpc.net/problem/15650)
 
+    o 2022-05-30
