@@ -164,4 +164,7 @@
 46. [프로그래머스] [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
 
     o 2022-05-18
+47. [백준] [N과 M(1)](https://www.acmicpc.net/problem/15649)
+
+    o 2022-05-30
 
