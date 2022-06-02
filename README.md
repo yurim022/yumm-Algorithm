@@ -187,3 +187,6 @@
 58. [백준] [N과 M(2)](https://www.acmicpc.net/problem/15650)
 
     o 2022-05-30
+59. [백준] [NQUEEN](https://www.acmicpc.net/problem/9663)
+
+    o 2022-06-02
