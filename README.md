@@ -190,3 +190,6 @@
 59. [백준] [NQUEEN](https://www.acmicpc.net/problem/9663)
 
     o 2022-06-02
+60. [백준] [스도쿠](https://www.acmicpc.net/problem/2580)
+
+    o 2022-06-11
