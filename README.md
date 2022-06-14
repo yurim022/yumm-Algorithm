@@ -193,3 +193,6 @@
 60. [백준] [스도쿠](https://www.acmicpc.net/problem/2580)
 
     o 2022-06-11
+61. [백준] [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+    o 2022-06-14
