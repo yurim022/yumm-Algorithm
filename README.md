@@ -187,3 +187,16 @@
 58. [백준] [N과 M(2)](https://www.acmicpc.net/problem/15650)
 
     o 2022-05-30
+59. [백준] [NQUEEN](https://www.acmicpc.net/problem/9663)
+
+    o 2022-06-02
+60. [백준] [스도쿠](https://www.acmicpc.net/problem/2580)
+
+    o 2022-06-11
+61. [백준] [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+    o 2022-06-14
+62. [프로그래머스] [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)
+
+    o 2022-06-19
+    
