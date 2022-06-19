@@ -196,3 +196,7 @@
 61. [백준] [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 
     o 2022-06-14
+62. [프로그래머스] [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)
+
+    o 2022-06-19
+    
