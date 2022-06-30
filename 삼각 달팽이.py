@@ -10,7 +10,7 @@ def solution(n):
     cur_r,cur_c = 0,0
     visited[0][0] = True
     maps[0][0] = 1 #끝에값 조심!!!!
-    while finalNum > num:
+    while finalNum > num: # 마지막 escape 조건 신경쓰자!!!! 잘못하면 못나올수도 있어ㅠ
         next_r, next_c = cur_r + move[direction][0], cur_c + move[direction][1]
         if next_r < n and next_c < n and next_r >= 0 and next_c >= 0 and not visited[next_r][next_c]:
             num += 1
