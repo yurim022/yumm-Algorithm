@@ -1,3 +1,5 @@
+package programmers;
+
 import java.util.*;
 class Solution {
     static String[] arr = {"A","C","F","J","M","N","R","T"};

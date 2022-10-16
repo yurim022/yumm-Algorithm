@@ -1,3 +1,5 @@
+package programmers;
+
 class Solution {
     public String solution(String phone_number) {
         StringBuilder sb = new StringBuilder("*".repeat(phone_number.length()-4));

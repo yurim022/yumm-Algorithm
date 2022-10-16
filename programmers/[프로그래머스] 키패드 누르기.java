@@ -1,3 +1,5 @@
+package programmers;
+
 class Solution {
 	public static String solution(int[] numbers, String hand) {
 		StringBuilder sb = new StringBuilder();

@@ -5,7 +5,7 @@ import java.util.Queue;
 #bfs 사용해서 풀이
 
 
-class Solution {
+class programmers.Solution {
     static int [] dx  = {1,-1,0,0,};
     static int [] dy = {0,0,1,-1};
     static int m;

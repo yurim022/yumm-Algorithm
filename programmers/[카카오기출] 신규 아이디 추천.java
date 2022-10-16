@@ -1,3 +1,5 @@
+package programmers;
+
 class Solution {
     public String solution(String new_id) {
         String answer = new_id.toLowerCase(); // 1단계
